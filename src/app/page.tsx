@@ -11,7 +11,7 @@ export default function Home() {
           Workshop:Transferência de tecnologias no APL da ovinocaprinocultura
         </h1>
 
-        <div className="m-auto mt-28 flex flex-wrap justify-around text-2xl font-bold max-sm:text-lg">
+        <div className="m-auto mt-12 flex flex-wrap justify-around text-2xl font-bold max-sm:text-lg">
           <p className="text-center  max-md:w-full ">15 de Junho</p>
           <p className="text-center  max-md:w-full ">
             Parque de Exposições Jacobina - PI
@@ -28,9 +28,11 @@ export default function Home() {
           <p className="ml-5 mt-7">
             <strong> Abertura oficial:</strong> Prefeitura Municipal de
             Jacobina-PI, Ministério da Integração e do Desenvolvimento Regional
-            (MIDR), SADA, Comitê de Avaliação para a Propriedade Intelectual
-            (COAPI), Universidade Federal do Piauí (UFPI), Universidade Estadual
-            do Piauí (UESPI) e Instituto Federal do Piauí (IFPI).
+            (MIDR), Secretaria de Estado da Assitência Técnica e Defesa
+            Agropecuária (SADA), Comitê de Avaliação para a Propriedade
+            Intelectual (COAPI), Universidade Federal do Piauí (UFPI),
+            Universidade Estadual do Piauí (UESPI) e Instituto Federal do Piauí
+            (IFPI).
           </p>
         </div>
 
@@ -42,7 +44,10 @@ export default function Home() {
           </div>
           <p className="ml-5 mt-7">
             <strong>Palestra:</strong> Abertura com a palestra “Desafios e
-            soluções da Ovinocaprinocultura no Vale do Itaim”. Palestrante:
+            soluções da Ovinocaprinocultura no Vale do Itaim”.
+          </p>
+          <p className="ml-10 mt-2">
+            <strong> Palestrante: </strong>
             Prof. Daniel Louçana da Costa Araújo - Departamento de Zootecnia
             (DZO) / Centro de Ciências Agrárias (CCA) / Universidade Federal do
             Piauí (UFPI).
@@ -64,7 +69,7 @@ export default function Home() {
               Departamento de Zootecnia (DZO) / Centro de Ciências Agrárias
               (CCA) / Universidade Federal do Piauí (UFPI).
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Participantes:</strong> Universidade Federal do Piauí
               (UFPI), Comitê de Avaliação para a Propriedade Intelectual
               (COAPI), D´CORTHES, Associação dos Criadores de Caprinos e Ovinos
@@ -94,7 +99,7 @@ export default function Home() {
               <strong>Coordenadora:</strong> Profa. Dinnara Layza Souza da Silva
               - Universidade Estadual do Piauí (UESPI)
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Atividades:</strong>
               <ul className="ml-4 mt-2">
                 <li>{'->'} Realização de exame Andrológico</li>
@@ -132,7 +137,7 @@ export default function Home() {
               <strong>Coordenadora:</strong> Prof - Instituto Federal do Piauí
               (IFPI)
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Atividades:</strong>
               <ul className="ml-4 mt-2">
                 <li>{'->'} Coleta de fezes para OPG</li>
@@ -162,7 +167,7 @@ export default function Home() {
               <strong>Moderador:</strong> Prof. Ricardo de Andrade Lira Rabêlo –
               Universidade Federal do Piauí (UFPI)
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Participantes:</strong> Tiago - Ministério da Integração e
               do Desenvolvimento Regional (MIDR), Edmundo (Coordenador dos Polos
               de ITAPARICA PE), Sinval Andrade Neto (D´CORTHES) e Comitê de
@@ -184,7 +189,7 @@ export default function Home() {
             <li>
               <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Coordenador: </strong>Edcácio – Secretaria de Agricultura
               de Jacobina do Piauí
             </li>
@@ -204,7 +209,7 @@ export default function Home() {
             <li>
               <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
             </li>
-            <li>
+            <li className="mt-2">
               <strong>Coordenador:</strong> Prof. Dr. José Lindenberg da Rocha
               Sarmento – Universidade Federal do Piauí (UFPI)
             </li>
