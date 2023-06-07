@@ -25,7 +25,7 @@ export default function Home() {
               8:00 h às 8:30 h:
             </p>
           </div>
-          <p className="ml-5 mt-7">
+          <p className="ml-5 mt-7 text-justify">
             <strong> Abertura oficial:</strong> Prefeitura Municipal de
             Jacobina-PI, Ministério da Integração e do Desenvolvimento Regional
             (MIDR), Secretaria de Estado da Assitência Técnica e Defesa
@@ -42,11 +42,11 @@ export default function Home() {
               8:30 h às 9:00 h:
             </p>
           </div>
-          <p className="ml-5 mt-7">
+          <p className="ml-5 mt-7 text-justify">
             <strong>Palestra:</strong> Abertura com a palestra “Desafios e
             soluções da Ovinocaprinocultura no Vale do Itaim”.
           </p>
-          <p className="ml-10 mt-2">
+          <p className="ml-10 mt-2 text-justify">
             <strong> Palestrante: </strong>
             Prof. Daniel Louçana da Costa Araújo - Departamento de Zootecnia
             (DZO) / Centro de Ciências Agrárias (CCA) / Universidade Federal do
@@ -64,12 +64,12 @@ export default function Home() {
             <strong> Mesa redonda:</strong>
           </p>
           <ul className="ml-10 mt-5">
-            <li>
+            <li className="text-justify">
               <strong>Moderador:</strong> Prof. Arnaud Azevêdo Alves -
               Departamento de Zootecnia (DZO) / Centro de Ciências Agrárias
               (CCA) / Universidade Federal do Piauí (UFPI).
             </li>
-            <li className="mt-2">
+            <li className="mt-2 text-justify">
               <strong>Participantes:</strong> Universidade Federal do Piauí
               (UFPI), Comitê de Avaliação para a Propriedade Intelectual
               (COAPI), D´CORTHES, Associação dos Criadores de Caprinos e Ovinos
@@ -95,7 +95,7 @@ export default function Home() {
             <strong>Oficinas Técnicas e Assistência aos criadores:</strong>
           </p>
           <ul className="ml-10 mt-5">
-            <li>
+            <li className="text-justify">
               <strong>Coordenadora:</strong> Profa. Dinnara Layza Souza da Silva
               - Universidade Estadual do Piauí (UESPI)
             </li>
@@ -163,11 +163,11 @@ export default function Home() {
             <strong> Mesa redonda:</strong>
           </p>
           <ul className="ml-10 mt-5">
-            <li>
+            <li className="text-justify">
               <strong>Moderador:</strong> Prof. Ricardo de Andrade Lira Rabêlo –
               Universidade Federal do Piauí (UFPI)
             </li>
-            <li className="mt-2">
+            <li className="mt-2 text-justify">
               <strong>Participantes:</strong> Tiago - Ministério da Integração e
               do Desenvolvimento Regional (MIDR), Edmundo (Coordenador dos Polos
               de ITAPARICA PE), Sinval Andrade Neto (D´CORTHES) e Comitê de
