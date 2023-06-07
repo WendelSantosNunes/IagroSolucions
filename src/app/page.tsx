@@ -169,7 +169,7 @@ export default function Home() {
               <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
             </li>
             <li>
-              <strong>Coordenadora:</strong> Edcácio – Secretaria de Agricultura
+              <strong>Coordenador:</strong> Edcácio – Secretaria de Agricultura
               de Jacobina do Piauí
             </li>
           </ul>
@@ -189,7 +189,7 @@ export default function Home() {
               <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
             </li>
             <li>
-              <strong>Coordenadora:</strong> Prof. Dr. José Lindenberg da Rocha
+              <strong>Coordenador:</strong> Prof. Dr. José Lindenberg da Rocha
               Sarmento – UFPI
             </li>
           </ul>
