@@ -19,7 +19,7 @@ export default function Home() {
           <p className="text-center  max-md:w-full ">Programação</p>
         </div>
 
-        <div className="mt-20">
+        <div className="mr-4 mt-20">
           <div className="w-full max-w-[12.25rem]	rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               8:00 h às 8:30 h:
@@ -36,7 +36,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem] rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               8:30 h às 9:00 h:
@@ -54,7 +54,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem]	rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               9:00 h às 9:30 h:
@@ -85,7 +85,7 @@ export default function Home() {
           </ul>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem]	rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               9:30 h às 12:00 h:
@@ -112,7 +112,7 @@ export default function Home() {
           </ul>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem]	rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               12:00 h às 14:00 h:
@@ -123,7 +123,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem]	rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               14:00 h às 17:00 h:
@@ -153,7 +153,7 @@ export default function Home() {
           </ul>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem] rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               17:00 h às 17:30 h:
@@ -176,7 +176,7 @@ export default function Home() {
           </ul>
         </div>
 
-        <div className="mt-7">
+        <div className="mr-4 mt-7">
           <div className="w-full max-w-[12.25rem] rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               17:30 h às 17:45 h:
@@ -196,7 +196,7 @@ export default function Home() {
           </ul>
         </div>
 
-        <div className="mb-10 mt-7">
+        <div className="mb-10 mr-4 mt-7">
           <div className="w-full max-w-[12.25rem] rounded-br-lg bg-container-green">
             <p className="pl-2 text-xl font-bold text-white">
               17:45 h às 18:00 h:
