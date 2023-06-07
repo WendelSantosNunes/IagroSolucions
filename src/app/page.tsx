@@ -27,7 +27,10 @@ export default function Home() {
           </div>
           <p className="ml-5 mt-7">
             <strong> Abertura oficial:</strong> Prefeitura Municipal de
-            Jacobina-PI, MIDR, SADA, COAPI, UFPI, UESPI e IFPI.
+            Jacobina-PI, Ministério da Integração e do Desenvolvimento Regional
+            (MIDR), SADA, Comitê de Avaliação para a Propriedade Intelectual
+            (COAPI), Universidade Federal do Piauí (UFPI), Universidade Estadual
+            do Piauí (UESPI) e Instituto Federal do Piauí (IFPI).
           </p>
         </div>
 
@@ -40,7 +43,9 @@ export default function Home() {
           <p className="ml-5 mt-7">
             <strong>Palestra:</strong> Abertura com a palestra “Desafios e
             soluções da Ovinocaprinocultura no Vale do Itaim”. Palestrante:
-            Prof. Daniel Louçana da Costa Araújo - DZO/CCA/UFPI.
+            Prof. Daniel Louçana da Costa Araújo - Departamento de Zootecnia
+            (DZO) / Centro de Ciências Agrárias (CCA) / Universidade Federal do
+            Piauí (UFPI).
           </p>
         </div>
 
@@ -56,12 +61,21 @@ export default function Home() {
           <ul className="ml-10 mt-5">
             <li>
               <strong>Moderador:</strong> Prof. Arnaud Azevêdo Alves -
-              DZO/CCA/UFPI
+              Departamento de Zootecnia (DZO) / Centro de Ciências Agrárias
+              (CCA) / Universidade Federal do Piauí (UFPI).
             </li>
             <li>
-              <strong>Participantes:</strong> UFPI, COAPI, D´CORTHES, ASCCOP,
-              ASCOBINA, ASCOFRAN, CAPRINOVA, SADA, SENAR, SEBRAE, Innova, UESPI,
-              IFPI
+              <strong>Participantes:</strong> Universidade Federal do Piauí
+              (UFPI), Comitê de Avaliação para a Propriedade Intelectual
+              (COAPI), D´CORTHES, Associação dos Criadores de Caprinos e Ovinos
+              de Paulistana (ASCCOP), Associacao De Criadores De Ovinos E
+              Caprinos Do Municipio De Jacobina Do Piaui (ASCOBINA), Associação
+              Dos Criadores De Caprinos E Ovinos De São Francisco De Assis-PI
+              (ASCOFRAN), Caprinova, Secretaria de Estado da Assitência Técnica
+              e Defesa Agropecuária (SADA), Serviço Nacional de Aprendizagem
+              Rural (SENAR), Serviço Brasileiro de Apoio às Micro e Pequenas
+              Empresas (SEBRAE), Innova, Universidade Estadual do Piauí (UESPI)
+              e Instituto Federal do Piauí (IFPI).
             </li>
           </ul>
         </div>
@@ -78,7 +92,7 @@ export default function Home() {
           <ul className="ml-10 mt-5">
             <li>
               <strong>Coordenadora:</strong> Profa. Dinnara Layza Souza da Silva
-              - UESPI
+              - Universidade Estadual do Piauí (UESPI)
             </li>
             <li>
               <strong>Atividades:</strong>
@@ -115,7 +129,8 @@ export default function Home() {
           </p>
           <ul className="ml-10 mt-5">
             <li>
-              <strong>Coordenadora:</strong> Prof - IFPI
+              <strong>Coordenadora:</strong> Prof - Instituto Federal do Piauí
+              (IFPI)
             </li>
             <li>
               <strong>Atividades:</strong>
@@ -145,12 +160,13 @@ export default function Home() {
           <ul className="ml-10 mt-5">
             <li>
               <strong>Moderador:</strong> Prof. Ricardo de Andrade Lira Rabêlo –
-              UFPI
+              Universidade Federal do Piauí (UFPI)
             </li>
             <li>
-              <strong>Participantes:</strong> Tiago (MIDR), Edmundo (Coordenador
-              dos Polos de ITAPARICA PE), Sinval Andrade Neto (D´CORTHES) e
-              COAPI.
+              <strong>Participantes:</strong> Tiago - Ministério da Integração e
+              do Desenvolvimento Regional (MIDR), Edmundo (Coordenador dos Polos
+              de ITAPARICA PE), Sinval Andrade Neto (D´CORTHES) e Comitê de
+              Avaliação para a Propriedade Intelectual (COAPI).
             </li>
           </ul>
         </div>
@@ -190,7 +206,7 @@ export default function Home() {
             </li>
             <li>
               <strong>Coordenador:</strong> Prof. Dr. José Lindenberg da Rocha
-              Sarmento – UFPI
+              Sarmento – Universidade Federal do Piauí (UFPI)
             </li>
           </ul>
         </div>
