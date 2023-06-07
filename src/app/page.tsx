@@ -169,7 +169,7 @@ export default function Home() {
               <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
             </li>
             <li>
-              <strong>Coordenador:</strong> Edcácio – Secretaria de Agricultura
+              <strong>Coordenador: </strong>Edcácio – Secretaria de Agricultura
               de Jacobina do Piauí
             </li>
           </ul>
