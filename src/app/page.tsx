@@ -12,7 +12,7 @@ export default function Home() {
         </h1>
 
         <div className="m-auto mt-12 flex flex-wrap justify-around text-2xl font-bold max-sm:text-lg">
-          <p className="text-center  max-md:w-full ">15 de Junho</p>
+          <p className="text-center  max-md:w-full ">15 de Julho</p>
           <p className="text-center  max-md:w-full ">
             Parque de Exposições Jacobina - PI
           </p>
