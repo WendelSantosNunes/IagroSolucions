@@ -16,7 +16,7 @@ module.exports = {
         'container-green': '#22A1A1',
       },
       maxWidth: {
-        imagem: '12.5rem',
+        imagem: '11.875rem',
       },
     },
   },
