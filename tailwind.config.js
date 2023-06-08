@@ -15,6 +15,9 @@ module.exports = {
       colors: {
         'container-green': '#22A1A1',
       },
+      maxWidth: {
+        imagem: '12.5rem',
+      },
     },
   },
   plugins: [],

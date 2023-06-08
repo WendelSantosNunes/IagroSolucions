@@ -1,5 +1,6 @@
 import { Header } from '@/app/components/Header'
 import { Footer } from '@/app/components/Footer'
+import { Apoio } from '@/app/components/Apoio'
 
 export default function Home() {
   return (
@@ -216,7 +217,7 @@ export default function Home() {
           </ul>
         </div>
       </div>
-
+      <Apoio />
       <Footer />
     </main>
   )
