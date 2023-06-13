@@ -9,7 +9,7 @@ export default function Home() {
 
       <div className="m-auto max-w-7xl text-black">
         <h1 className="m-auto mt-12 flex max-w-2xl justify-center text-center text-3xl font-bold max-sm:text-xl">
-          Workshop:Transferência de tecnologias no APL da ovinocaprinocultura
+          Workshop: Transferência de tecnologias no APL da ovinocaprinocultura
         </h1>
 
         <div className="m-auto mt-12 flex flex-wrap justify-around text-2xl font-bold max-sm:text-lg">
