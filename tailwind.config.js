@@ -17,6 +17,8 @@ module.exports = {
       },
       maxWidth: {
         imagem: '11.875rem',
+        imagem2: '400px',
+        imagem3: '300px',
       },
     },
   },

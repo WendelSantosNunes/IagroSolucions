@@ -1,6 +1,12 @@
+import Image from 'next/image'
+
+// Components
 import { Header } from '@/app/components/Header'
 import { Footer } from '@/app/components/Footer'
 import { Apoio } from '@/app/components/Apoio'
+
+//  Image
+import Workshop from '@/app/assets/Workshop.png'
 
 export default function Home() {
   return (
@@ -8,16 +14,12 @@ export default function Home() {
       <Header />
 
       <div className="m-auto max-w-7xl text-black">
-        <h1 className="m-auto mt-12 flex max-w-2xl justify-center text-center text-3xl font-bold max-sm:text-xl">
-          Workshop: Transferência de tecnologias no APL da ovinocaprinocultura
-        </h1>
-
-        <div className="m-auto mt-12 flex flex-wrap justify-around text-2xl font-bold max-sm:text-lg">
-          <p className="text-center  max-md:w-full ">15 de Julho</p>
-          <p className="text-center  max-md:w-full ">
-            Parque de Exposições Jacobina - PI
-          </p>
-          <p className="text-center  max-md:w-full ">Programação</p>
+        <div className="mt-12 flex justify-center">
+          <Image
+            src={Workshop}
+            alt="Logo da Workshop"
+            className="w-full	max-w-imagem3 object-cover md:max-w-imagem2"
+          />
         </div>
 
         <div className="mr-4 mt-20">
