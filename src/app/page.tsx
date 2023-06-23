@@ -64,7 +64,8 @@ export default function Home() {
             </p>
           </div>
           <p className="ml-5 mt-7 ">
-            <strong> Mesa redonda:</strong>
+            <strong> Mesa redonda:</strong> A Importância da Transferência de
+            Tecnologia voltada a Assistência Técnica na propriedade rural
           </p>
           <ul className="ml-10 mt-5">
             <li className="text-justify">
@@ -73,17 +74,12 @@ export default function Home() {
               (CCA) / Universidade Federal do Piauí (UFPI).
             </li>
             <li className="mt-2 text-justify">
-              <strong>Participantes:</strong> Universidade Federal do Piauí
-              (UFPI), Comitê de Avaliação para a Propriedade Intelectual
-              (COAPI), D´CORTHES, Associação dos Criadores de Caprinos e Ovinos
-              de Paulistana (ASCCOP), Associacao De Criadores De Ovinos E
-              Caprinos Do Municipio De Jacobina Do Piaui (ASCOBINA), Associação
-              Dos Criadores De Caprinos E Ovinos De São Francisco De Assis-PI
-              (ASCOFRAN), Caprinova, Secretaria de Estado da Assitência Técnica
-              e Defesa Agropecuária (SADA), Serviço Nacional de Aprendizagem
-              Rural (SENAR), Serviço Brasileiro de Apoio às Micro e Pequenas
-              Empresas (SEBRAE), Innova, Universidade Estadual do Piauí (UESPI)
-              e Instituto Federal do Piauí (IFPI).
+              <strong>Participantes:</strong> Renata Carla Santos Silva
+              (SEBRAE), Tiago Gonçalves Araújo (Secretaria Nacional de Políticas
+              de Desenvolvimento Regional e Territorial do Ministério da
+              Integração e do Desenvolvimento Regional), Edmundo Gomes de Souza
+              Filho (Rota do Cordeiro – Polo Itaparica) e Romuere Rodrigues
+              Veloso e Silva (Universidade Federal do Piauí)
             </li>
           </ul>
         </div>
@@ -171,10 +167,12 @@ export default function Home() {
               Universidade Federal do Piauí (UFPI)
             </li>
             <li className="mt-2 text-justify">
-              <strong>Participantes:</strong> Tiago - Ministério da Integração e
-              do Desenvolvimento Regional (MIDR), Edmundo (Coordenador dos Polos
-              de ITAPARICA PE), Sinval Andrade Neto (D´CORTHES) e Comitê de
-              Avaliação para a Propriedade Intelectual (COAPI).
+              <strong>Participantes:</strong> Francismar Francisco da Silva
+              (COAPI), Mageano Rodrigues Campos Sá (ASCOBINA), Marta Macedo
+              (ASCCOP), Eder Coelho Dias (CAPRINOVA), Márcio Gleyde do
+              Nascimento Morais (ASCOFRAN), Petrônio Borges Oliveira Júnior
+              (Innova Nutrição Animal) e Sinval Pereira de Andrade Neto
+              (D´CORTHES).
             </li>
           </ul>
         </div>
@@ -186,15 +184,12 @@ export default function Home() {
             </p>
           </div>
           <p className="ml-5 mt-7 ">
-            <strong> Mesa redonda:</strong>
+            <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
           </p>
           <ul className="ml-10 mt-5">
-            <li>
-              <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
-            </li>
             <li className="mt-2">
-              <strong>Coordenador: </strong>Edcácio – Secretaria de Agricultura
-              de Jacobina do Piauí
+              <strong>Coordenador: </strong>Edcácio Rodrigues Sousa – Secretaria
+              de Agricultura de Jacobina do Piauí
             </li>
           </ul>
         </div>
@@ -209,12 +204,9 @@ export default function Home() {
             <strong>Convite ao CNPA 2023:</strong>
           </p>
           <ul className="ml-10 mt-5">
-            <li>
-              <strong>Brindes, Degustação e Sessão de Encerramento:</strong>{' '}
-            </li>
             <li className="mt-2">
               <strong>Coordenador:</strong> Prof. Dr. José Lindenberg da Rocha
-              Sarmento – Universidade Federal do Piauí (UFPI)
+              Sarmento – UFPI – Universidade Federal do Piauí (UFPI)
             </li>
           </ul>
         </div>
